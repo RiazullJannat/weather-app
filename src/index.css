@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.rightP{
+    border-bottom: 1px solid gray;
+    width: 70%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+}
+.rightP span{
+    font-weight: bold;
+}
